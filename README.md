@@ -4,10 +4,10 @@ This is a simple server application which is developed on python using flask fra
 ## Running application
 The following steps should be satisfied in order to run application:
 
-- install actual version of python3
-- install necessary modules that are listed in reqirements.txt file
-- prepare database and enviroment variables
+- install or update python3
+- install modules from the reqirements.txt file
+- prepare database and set correct enviroment variables
 - if you do not have or want to run without database try to set variable NO_DB=true
-- run application
-- 
+- run application ```` python3 app.py ````
+ 
 
